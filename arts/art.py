@@ -22,7 +22,7 @@ https://patorjk.com/software/taag/#p=display&f=Crawford2&t=Happy%20Birthday%0A%2
 Go to the above link and generate art to replace 'Happy Birthday Love' with other text you wish to display.
 '''
 
-mainArt = \
+mainArt = \⑤Happy ②Birthday ⑤Mini
 '''
 
 
